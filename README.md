@@ -34,7 +34,7 @@ A JPEG image with embedded archive data containing Base64-encoded fragments of t
 ---
 
 ## 📌 Notes
-Challenge files are not included due to size or distribution limitations. Descriptions and solutions are provided for educational and portfolio purposes.
+Descriptions and solutions are provided for educational and portfolio purposes.
 
 ---
 
